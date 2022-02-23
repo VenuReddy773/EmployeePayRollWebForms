@@ -1,0 +1,27 @@
+.sec1 {
+    margin-top: 5px;
+    margin-left: 300px;
+    height: 500px;
+    background-color: #FFFFFF;
+    padding-left: 105px;
+    padding-top: 20px;
+    width: 600px;
+}
+
+.sec2 {
+    color: blue;
+    padding-left:60px;
+}
+.sec3{
+    padding-left:60px;
+}
+
+footer {
+    margin-top: 50px;
+}
+.signin:hover {
+    background-color: #FFFFFF;
+    color: blue;
+}
+.
+

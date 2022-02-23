@@ -1,0 +1,25 @@
+﻿.sec1{
+    margin-top: 25px;
+    margin-left: 347px;
+    height: 420px;
+    background-color: #FFFFFF;
+    padding-left: 103px;
+    padding-top: 20px;
+    width: 500px;
+}
+.sec2{
+    color:blue;
+}
+footer {
+    margin-top:60px;
+}
+#Content2{
+    border:3px solid;
+}
+.signin{
+    margin-left:80px;
+}
+.signup:hover {
+        background-color: #FFFFFF;
+        color: blue;
+}
